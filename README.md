@@ -4,7 +4,7 @@ Do NOT share this with anyone else.
 # Info
 OS: Android
 <br />
-Language: Idk
+Language: Python Or Java
 <br />
 Deadline: Next week
 <br />
