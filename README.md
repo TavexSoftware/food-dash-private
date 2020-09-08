@@ -4,8 +4,10 @@ Do NOT share this with anyone else.
 # Info
 OS: Android
 <br />
-Language: Python Or Java
+Language: Mainly Python. Maybe some Java?
 <br />
 Deadline: Next week
 <br />
+# Notes
+Notes Here
 # Thanks ;)
