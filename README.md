@@ -2,6 +2,10 @@
 Do NOT share this with anyone else.
 <br />
 # Info
-Info here please
+OS: Android
+<br />
+Language: Idk
+<br />
+Deadline: Next week
 <br />
 # Thanks ;)
