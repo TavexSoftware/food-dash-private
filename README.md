@@ -9,5 +9,7 @@ Language: Mainly Python. Maybe some Java?
 Deadline: Next week
 <br />
 # Notes
-Notes Here
+Food Dash repo for main public things
+<br />
+Food dash windows Source code for, well... source code
 # Thanks ;)
