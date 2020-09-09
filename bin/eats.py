@@ -1,5 +1,4 @@
 print("Starting... \nPlease Wait")
-import asyncio
 import random
 import json
 import os
